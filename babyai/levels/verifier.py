@@ -61,12 +61,12 @@ class ObjDesc:
     def __repr__(self):
         return "{} {} {}".format(self.color, self.type, self.loc)
 
-    def surface(self, env):
+    def surface(self, env, sameRoom=True):
         """
         Generate a natural language representation of the object description
         """
 
-        self.find_matching_objs(env)
+        self.find_matching_objs(env, sameRoom=sameRoom)
         assert len(self.obj_set) > 0, "no object matching description"
 
         if self.type:
@@ -93,7 +93,7 @@ class ObjDesc:
 
         return s
 
-    def find_matching_objs(self, env, use_location=True):
+    def find_matching_objs(self, env, use_location=True, sameRoom=True):
         """
         Find the set of objects matching the description and their positions.
         When use_location is False, we only update the positions of already tracked objects, without taking into account
@@ -277,30 +277,84 @@ class OpenInstr(ActionInstr):
 class GoToInstr(ActionInstr):
     """
     Go next to (and look towards) an object matching a given description
+    carryInv(ariance) -- ensure agent carries same object at begining and end
     eg: go to the door
     """
 
-    def __init__(self, obj_desc):
+    def __init__(self, obj_desc, carrying=None, carryInv=False):
         super().__init__()
         self.desc = obj_desc
+        self.carrying = carrying
+        self.carryInv = carryInv
 
     def surface(self, env):
-        return 'go to ' + self.desc.surface(env)
+        return 'go to ' + self.desc.surface(env, sameRoom=False)
 
     def reset_verifier(self, env):
         super().reset_verifier(env)
-
         # Identify set of possible matching objects in the environment
         self.desc.find_matching_objs(env)
+        self.env.carrying = self.carrying
 
     def verify_action(self, action):
         # For each object position
         for pos in self.desc.obj_poss:
             # If the agent is next to (and facing) the object
             if np.array_equal(pos, self.env.front_pos):
-                return 'success'
-
+                # check for carry invariance
+                if not self.carryInv:
+                    return 'success'
+                if self.carrying == self.env.carrying:
+                    return 'success'
         return 'continue'
+
+
+class GoNextToInstr(GoToInstr):
+    """
+    Look towards a cell adjacent to an object matching a given description
+    such that anything carried can be placed next to the object
+    carryInv(ariance) -- ensure agent carries same object at beginning and end
+    eg: go to the door
+    """
+
+    def __init__(self, obj_desc, carrying=None, carryInv=False, objs=None):
+        super().__init__(
+            obj_desc,
+            carrying=carrying,
+            carryInv=carryInv
+        )
+        if objs is not None:
+            self.objs = [ObjDesc(obj.type, obj.color) for obj in objs]
+
+    def surface(self, env):
+        return 'go next to ' + self.desc.surface(env, sameRoom=False)
+
+    def is_not_empty(self, front_pos):
+        'true if no object on square'
+        for obj in self.objs:
+            obj.find_matching_objs(self.env)
+            poss = obj.obj_poss
+            for pos in poss:
+                if np.array_equal(pos, front_pos):
+                    return True
+        return False
+
+    def verify_action(self, action):
+        # For each object position
+        front_pos = self.env.front_pos
+        for pos in self.desc.obj_poss:
+            # If the agent is next to (and facing) the object
+            if pos_next_to(pos, front_pos):
+                # if cell in front is empty
+                if self.is_not_empty(front_pos):
+                    return 'continue'
+                # check for carry invariance
+                if not self.carryInv:
+                    return 'success'
+                if self.carrying == self.env.carrying:
+                    return 'success'
+        return 'continue'
+
 
 
 class PickupInstr(ActionInstr):
