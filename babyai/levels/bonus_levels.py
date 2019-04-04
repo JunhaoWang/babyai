@@ -135,6 +135,85 @@ class Level_BalancedMonster(RoomGridLevel):
         self.gen_instr_type(carry)
 
 
+class Level_ControllerExplore(Level_BalancedMonster):
+    """
+    explore the middle room
+    this level and its descendents are for testing
+    """
+
+    def __init__(self, seed=None):
+        super().__init__(
+            seed=seed
+        )
+        self.loc=False
+
+    def gen_mission(self):
+        'explore'
+        self.get_objs()
+        self.carrying = self.carrying_object()
+        self.instrs = ExploreInstr(carrying=self.carrying, carryInv=self.carryInv, center=self.center)
+
+
+class Level_ControllerGoTo(Level_ControllerExplore):
+    """
+    go to an object in the middle room
+    """
+
+    def __init__(self, seed=None):
+        super().__init__(
+            seed=seed
+        )
+
+    def gen_mission(self):
+        'if object present, goto, otherwise explore'
+        self.get_objs()
+        self.obj_in_room()
+        self.carrying = self.carrying_object()
+        carry = dict(carrying=self.carrying, carryInv=self.carryInv)
+        objDesc = self.create_desc(self.room.objs)
+        self.instrs = GoToInstr(objDesc, **carry)
+
+
+class Level_ControllerGoToDoor(Level_ControllerExplore):
+    """
+    go to a door in the middle room
+    """
+
+    def __init__(self, seed=None):
+        super().__init__(
+            seed=seed
+        )
+
+    def gen_mission(self):
+        'if door present, goto, otherwise explore'
+        self.get_objs()
+        self.carrying = self.carrying_object()
+        carry = dict(carrying=self.carrying, carryInv=self.carryInv)
+        self.door_in_room()
+        objDesc = self.create_desc(self.doors)
+        self.instrs = GoToInstr(objDesc, **carry)
+
+
+class Level_ControllerGoNextTo(Level_ControllerExplore):
+    """
+    go next to an object in the middle room
+    """
+
+    def __init__(self, seed=None):
+        super().__init__(
+            seed=seed
+        )
+
+    def gen_mission(self):
+        'if object present, go next to, otherwise explore'
+        self.get_objs()
+        self.obj_in_room()
+        self.carrying = self.carrying_object()
+        carry = dict(carrying=self.carrying, carryInv=self.carryInv, objs=self.room.objs)
+        objDesc = self.create_desc(self.room.objs)
+        self.instrs = GoNextToInstr(objDesc, **carry)
+
+
 class Level_OpenRedDoor(RoomGridLevel):
     """
     Go to the red door
