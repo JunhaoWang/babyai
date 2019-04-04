@@ -1,0 +1,1022 @@
+go to a green key 0.0
+go to a yellow ball 0.0
+go next to a green box 0.71875
+go next to a red ball 0.915625
+go to the purple door 0.9296875
+go to a green door 0.7328125
+go next to a green key 0.9015625
+go to a purple door 0.8453125
+go next to a blue ball 0.94375
+go to the green door 0.915625
+go to a green ball 0.0
+go next to the grey box 0.94375
+go to a red ball 0.94375
+go to the green box 0.0
+explore forward 0.0
+go next to a green key 0.9015625
+go to a blue door 0.9859375
+go to a blue door 0.46562499999999996
+explore forward 0.0
+go next to a yellow key 0.9859375
+go next to a purple box 0.9578125
+go next to a yellow box 0.8453125
+go next to a red ball 0.9015625
+go next to a purple key 0.9015625
+explore 0.46562499999999996
+go to a purple key 0.0
+go to a yellow door 0.8734375
+go to a purple ball 0.0
+go to a blue door 0.746875
+go next to the green key 0.9296875
+go to a grey ball 0.0
+go to the purple door 0.859375
+go to the yellow door 0.746875
+go to a yellow door 0.0
+explore forward 0.0
+explore forward 0.0
+go to a red door 0.8171875
+go next to a green box 0.8875
+explore 0.7046874999999999
+explore forward 0.14218750000000002
+go to a blue key 0.0
+go to a green door 0.971875
+explore forward 0.0
+go to a grey key 0.0
+explore 0.6625
+go next to a green box 0.971875
+explore forward 0.0
+go to a yellow door 0.7890625
+go to the green ball 0.0
+go to a grey key 0.0
+go to a green door 0.7046874999999999
+go to a red box 0.9296875
+go to a green box 0.803125
+explore forward 0.0
+go next to a green box 0.9578125
+explore forward 0.521875
+go to a grey door 0.9296875
+go to a grey ball 0.0
+go to a yellow door 0.8453125
+go to a purple door 0.8453125
+go to the grey door 0.8875
+go to the purple door 0.9015625
+explore forward 0.12812499999999993
+go to a purple ball 0.0
+explore forward 0.49375
+explore 0.32499999999999996
+go to a green door 0.9859375
+go to a purple door 0.94375
+explore forward 0.49375
+go to the grey door 0.0
+go next to a purple box 0.8734375
+go to a blue door 0.9859375
+go to the green key 0.0
+go to a yellow door 0.83125
+go to a red key 0.0
+go next to a purple key 0.859375
+go to a red door 0.859375
+go next to a red key 0.9296875
+go next to a purple box 0.9859375
+go to a purple door 0.8875
+go to a purple box 0.0
+explore forward 0.0
+go next to a yellow key 0.915625
+go next to the blue key 0.971875
+explore 0.0
+explore forward 0.15625
+go to a red key 0.0
+go next to a blue box 0.9578125
+explore 0.0
+go to a yellow door 0.8453125
+explore forward 0.0
+go to a grey key 0.0
+go to a red door 0.8453125
+go next to a red box 0.9578125
+go to the green ball 0.0
+go next to a yellow key 0.0
+go to a yellow door 0.9859375
+explore 0.5640624999999999
+explore 0.0
+go to the yellow ball 0.0
+go to a grey door 0.775
+go to a grey ball 0.0
+go to a green door 0.859375
+explore forward 0.3109375
+go to the purple door 0.9296875
+explore forward 0.0
+explore 0.0
+go to a purple key 0.0
+go to a blue door 0.9578125
+go to a green door 0.9015625
+go next to a purple box 0.9296875
+go to a yellow door 0.9859375
+explore forward 0.0
+go to a yellow key 0.0
+explore 0.3671875
+go to a purple key 0.0
+go to the yellow door 0.803125
+go next to a purple key 0.7328125
+go to the purple door 0.83125
+go to a grey key 0.0
+explore 0.6625
+explore 0.4375
+go next to a purple key 0.9296875
+go next to the green box 0.915625
+go to the yellow door 0.859375
+go to a blue door 0.0
+explore forward 0.4515625
+go next to a blue ball 0.915625
+go to a blue key 0.0
+go to a red door 0.8171875
+go to the yellow door 0.8875
+go to a blue key 0.0
+go to a purple key 0.0
+go to a yellow ball 0.0
+go to a red key 0.0
+explore 0.5078125
+go to a grey ball 0.0
+go next to the grey box 0.971875
+go next to a grey ball 0.9859375
+go to a green ball 0.0
+go to a red ball 0.0
+explore 0.690625
+go to a red door 0.8734375
+go to the purple door 0.6484375
+go to the green ball 0.0
+go to a blue door 0.8734375
+go next to a green key 0.971875
+go next to a yellow box 0.94375
+go to a yellow door 0.5359375
+explore forward 0.0
+explore forward 0.0
+explore 0.6343749999999999
+explore forward 0.0
+explore forward 0.0
+explore forward 0.0
+go to the red key 0.9578125
+go next to a green ball 0.9296875
+explore forward 0.26874999999999993
+go to a blue ball 0.0
+go to the grey door 0.803125
+go next to a red key 0.915625
+go next to a purple ball 0.9296875
+go to a red door 0.9015625
+go to a green door 0.7890625
+go to a grey door 0.9015625
+go to a purple box 0.0
+go to a green door 0.6203125
+go to a blue door 0.9015625
+go to a yellow door 0.775
+go to a grey ball 0.0
+go to a yellow box 0.0
+go next to a blue ball 0.9296875
+explore 0.46562499999999996
+explore 0.5640624999999999
+explore 0.38125
+explore 0.24062499999999998
+go to a green ball 0.746875
+go next to a green key 0.915625
+go to a grey ball 0.0
+go to a green key 0.94375
+go to a green key 0.0
+explore forward 0.40937499999999993
+go to a purple key 0.0
+go to the blue door 0.8453125
+explore 0.60625
+go to a blue door 0.9296875
+go to a red key 0.0
+go to a yellow key 0.0
+go to the yellow ball 0.0
+go to a yellow door 0.971875
+go next to a blue box 0.9296875
+go next to the yellow key 0.9015625
+go to a grey door 0.8171875
+go to a purple box 0.0
+explore 0.6765625
+go to the blue key 0.0
+go to a purple ball 0.0
+go to a blue door 0.94375
+go to the green door 0.8171875
+go next to a green key 0.8171875
+explore forward 0.3671875
+explore forward 0.15625
+go to a blue ball 0.0
+go to a green box 0.0
+go to a purple door 0.0
+go to a blue box 0.0
+go to a yellow door 0.9015625
+go to a purple door 0.690625
+go next to the yellow ball 0.915625
+go next to a blue ball 0.9578125
+explore forward 0.0
+go to a green ball 0.0
+go to the blue ball 0.0
+go to the yellow key 0.0
+go to a yellow key 0.0
+go to the yellow box 0.0
+explore forward 0.0
+explore 0.0
+explore 0.578125
+go to a red door 0.0
+go to a grey box 0.0
+explore 0.0
+go next to a purple box 0.94375
+explore 0.5640624999999999
+go to a green door 0.9015625
+go to a grey box 0.0
+go to a green box 0.0
+go to a blue ball 0.0
+explore 0.47968749999999993
+go next to a green ball 0.9578125
+explore 0.7609375
+go to the grey door 0.83125
+go to a green door 0.859375
+go next to a blue key 0.775
+go to the grey door 0.859375
+go to the yellow key 0.0
+go to a yellow door 0.9296875
+go to a grey ball 0.0
+go next to a green key 0.971875
+go to a blue door 0.9015625
+go to a red key 0.0
+go next to a red box 0.9859375
+go to the grey door 0.9296875
+explore forward 0.0
+go to a purple key 0.0
+explore forward 0.4234375
+go next to the green ball 0.83125
+go to a green box 0.0
+go to the green door 0.9859375
+go to a yellow door 0.7890625
+go next to the green ball 0.5359375
+go to a grey door 0.971875
+explore 0.690625
+go to a blue box 0.0
+go to a purple box 0.0
+explore 0.5921875
+go to a purple box 0.0
+go to a red door 0.8171875
+go to a grey key 0.0
+go to a yellow door 0.6203125
+go to the green ball 0.0
+go to a grey key 0.0
+go to a grey ball 0.0
+explore 0.0
+explore 0.0
+go to a yellow ball 0.0
+explore forward 0.0
+go to a grey door 0.9859375
+go next to a yellow box 0.9015625
+explore 0.38125
+explore 0.5921875
+explore 0.25468749999999996
+go next to a blue ball 0.94375
+go next to a grey key 0.971875
+go to the grey door 0.7890625
+explore 0.0
+go to a green door 0.9859375
+explore forward 0.0
+go to a green box 0.0
+go to a blue box 0.0
+go to a yellow door 0.859375
+go to the purple key 0.0
+go to a grey ball 0.0
+go next to a purple ball 0.971875
+explore forward 0.26874999999999993
+go to a yellow ball 0.0
+explore 0.40937499999999993
+go to a red door 0.859375
+go to a blue door 0.9015625
+go next to a purple ball 0.9859375
+go next to a blue key 0.9859375
+explore 0.32499999999999996
+go to a grey ball 0.0
+go to a red door 0.9859375
+go next to a blue box 0.915625
+explore 0.0
+go next to a red ball 0.8875
+explore 0.0
+go to the green door 0.9015625
+explore forward 0.19843749999999993
+go next to a yellow key 0.9859375
+explore 0.0
+explore forward 0.0
+explore forward 0.46562499999999996
+explore forward 0.0
+go to the green ball 0.803125
+explore 0.7609375
+explore forward 0.38125
+go next to a green key 0.971875
+explore 0.47968749999999993
+go to a red door 0.94375
+go to the blue box 0.0
+go next to the purple key 0.7328125
+go to a grey key 0.0
+explore forward 0.0
+explore 0.0
+go to a purple box 0.0
+go to a green key 0.0
+explore forward 0.2828125
+go next to a red box 0.94375
+go to a green ball 0.0
+explore 0.7328125
+go to a blue ball 0.0
+go next to a grey ball 0.9578125
+go to a purple key 0.0
+go to a blue box 0.0
+go to a blue door 0.0
+go to a yellow door 0.9296875
+go to a grey door 0.94375
+explore forward 0.0
+go to a red ball 0.0
+explore forward 0.14218750000000002
+explore 0.296875
+go next to a red box 0.915625
+go to a grey door 0.2828125
+go to a grey ball 0.0
+explore forward 0.0
+go to a blue ball 0.0
+go next to the purple key 0.94375
+go to a yellow box 0.0
+go to a blue key 0.0
+go to a yellow box 0.0
+go to a red door 0.8734375
+explore 0.55
+go next to a purple key 0.9296875
+go to a yellow door 0.7890625
+explore 0.690625
+explore 0.5359375
+explore forward 0.0
+go to the yellow door 0.8734375
+go to a red door 0.9015625
+go to the purple door 0.0
+go to a green key 0.0
+go to a yellow door 0.9578125
+go to a grey ball 0.0
+go next to a purple box 0.83125
+explore forward 0.5359375
+go to a grey box 0.0
+go next to a grey box 0.94375
+go to a green box 0.0
+go to the grey door 0.9015625
+go to the blue box 0.0
+go to a red door 0.8875
+go next to a grey box 0.971875
+explore 0.8171875
+go next to a yellow box 0.9578125
+go next to a grey box 0.9859375
+go to a purple door 0.9859375
+go to a green ball 0.0
+go to a purple door 0.8453125
+go to a red box 0.0
+go to a red door 0.8875
+go to a green box 0.0
+explore 0.4375
+explore forward 0.0
+go next to a yellow key 0.94375
+go to a grey box 0.0
+go to a blue door 0.0
+go to a red box 0.0
+go to a red ball 0.0
+go to a blue key 0.0
+go to a red door 0.775
+go to a yellow key 0.0
+go to a grey door 0.8875
+go to a yellow door 0.859375
+go to a yellow door 0.9859375
+go to a blue box 0.0
+go to a blue key 0.0
+explore 0.2265625
+explore 0.55
+go to a grey key 0.0
+explore forward 0.578125
+go next to the grey ball 0.971875
+go next to the green ball 0.9859375
+go to a red box 0.0
+explore forward 0.0
+explore forward 0.0
+go to a purple door 0.7609375
+explore forward 0.3671875
+explore forward 0.0
+go next to the red ball 0.915625
+go to a purple door 0.94375
+explore 0.39531249999999996
+go next to a green box 0.94375
+go to a purple door 0.803125
+go next to a blue box 0.9015625
+go to a green box 0.0
+go next to a blue ball 0.8734375
+go to a red box 0.0
+explore 0.7046874999999999
+go to a grey box 0.0
+go next to a blue ball 0.971875
+explore forward 0.0
+go to a yellow door 0.9015625
+explore 0.5921875
+go to the purple door 0.94375
+go next to a purple ball 0.9859375
+go next to a yellow box 0.971875
+go next to a blue box 0.9859375
+go next to a purple key 0.9578125
+go to the grey ball 0.0
+go next to a red ball 0.9859375
+go to the purple door 0.971875
+go to a red key 0.0
+explore 0.0
+go to a blue ball 0.0
+go to a yellow door 0.915625
+go next to a blue key 0.9296875
+go next to a green key 0.9859375
+go to a purple door 0.6343749999999999
+go to a blue door 0.915625
+go to a yellow key 0.0
+explore 0.6765625
+go to a yellow ball 0.0
+go to a red door 0.9015625
+go next to a green box 0.915625
+go to the purple door 0.7328125
+go to a blue key 0.0
+go next to a purple key 0.9015625
+go to a grey box 0.0
+go to a purple door 0.9015625
+explore 0.47968749999999993
+go to the red door 0.690625
+go to a blue ball 0.0
+explore 0.2828125
+go to the purple door 0.0
+go to a grey key 0.60625
+explore forward 0.7609375
+go to the grey ball 0.0
+explore forward 0.6484375
+go next to the green box 0.971875
+go next to a grey box 0.9296875
+go next to a purple box 0.915625
+explore forward 0.0
+go next to the purple box 0.9578125
+go to a grey door 0.7609375
+go to the grey door 0.83125
+go next to a yellow box 0.9859375
+go to the grey door 0.7046874999999999
+go next to a red ball 0.9859375
+go to a yellow door 0.9859375
+go to a purple door 0.7328125
+explore 0.60625
+explore 0.5078125
+go next to a grey box 0.9859375
+go to a grey ball 0.0
+go to a red door 0.0
+go next to a grey ball 0.9578125
+go to the yellow key 0.0
+go to a green door 0.8734375
+go to a purple box 0.0
+explore forward 0.0
+explore 0.0
+explore 0.25468749999999996
+go to a yellow box 0.0
+go to a purple ball 0.0
+explore forward 0.0
+explore forward 0.0
+explore forward 0.2828125
+go next to the yellow key 0.9859375
+go next to a green box 0.7890625
+go next to a yellow key 0.915625
+go to a green key 0.0
+go to a red door 0.803125
+go to a green door 0.6343749999999999
+go next to the blue key 0.859375
+go next to a blue key 0.8453125
+go to a green ball 0.0
+go to a blue box 0.0
+explore 0.38125
+go to a grey door 0.9859375
+go to a green box 0.0
+go to a green key 0.0
+explore 0.4375
+go next to a purple key 0.971875
+explore forward 0.24062499999999998
+go to a yellow door 0.9859375
+go to the purple door 0.7609375
+go next to a yellow key 0.9296875
+go to the grey box 0.0
+explore forward 0.39531249999999996
+go to a yellow box 0.0
+go to a yellow box 0.0
+go to a blue door 0.803125
+go next to a purple ball 0.8734375
+go to a purple door 0.7609375
+go next to a grey key 0.915625
+go to a purple door 0.0
+go next to a green box 0.9859375
+go to a purple key 0.0
+go to the blue ball 0.0
+go to a red key 0.0
+go to the yellow key 0.0
+go next to the purple box 0.9015625
+go to a red key 0.0
+go to a blue door 0.915625
+explore 0.521875
+go to a grey door 0.8453125
+go to a blue door 0.9015625
+go to a yellow ball 0.0
+go next to a green box 0.94375
+go to a blue door 0.8875
+go to a grey key 0.0
+go next to the grey key 0.9859375
+go next to a grey key 0.9015625
+explore forward 0.0
+go to the purple door 0.94375
+explore forward 0.4515625
+go to a yellow key 0.0
+explore 0.0
+go next to a green box 0.971875
+go to a purple door 0.859375
+go to a grey ball 0.0
+go next to a yellow key 0.0
+go to a grey key 0.0
+explore forward 0.0
+go next to a yellow box 0.9859375
+go to a red ball 0.0
+go next to a green box 0.8734375
+go to a grey door 0.9859375
+explore forward 0.5359375
+go to a purple door 0.94375
+go next to the purple box 0.0
+go to the grey door 0.8453125
+go to a blue door 0.971875
+go to a blue box 0.0
+go to the blue key 0.0
+go to the blue door 0.83125
+go to a grey door 0.7890625
+go next to a grey key 0.9859375
+go next to a red ball 0.9859375
+explore 0.46562499999999996
+explore 0.5921875
+go to a purple door 0.7609375
+go next to a grey ball 0.8453125
+explore 0.0
+go next to a blue ball 0.9015625
+go next to the blue box 0.9015625
+explore 0.5921875
+go to a grey door 0.8875
+explore 0.4375
+go next to a purple key 0.94375
+go to a blue key 0.0
+explore 0.0
+go to a yellow door 0.971875
+go to the red key 0.0
+explore 0.60625
+go to the purple door 0.8875
+go to a yellow door 0.83125
+go next to a red key 0.971875
+go next to the red box 0.9859375
+go to a blue ball 0.0
+go to a blue door 0.0
+go to a grey box 0.0
+explore forward 0.24062499999999998
+go to the green door 0.83125
+go to a grey ball 0.0
+explore forward 0.0
+go to a yellow door 0.803125
+explore 0.24062499999999998
+go to a red ball 0.0
+go to a red door 0.859375
+go next to a yellow key 0.9859375
+explore forward 0.0
+go next to the blue key 0.971875
+go next to a purple key 0.971875
+go to a yellow box 0.0
+explore 0.5921875
+go to a green door 0.9859375
+go next to a green box 0.915625
+go to a red ball 0.0
+go to a red door 0.0
+go to a yellow door 0.803125
+go to a grey ball 0.0
+explore 0.24062499999999998
+explore 0.0
+go next to a blue key 0.8875
+explore forward 0.0
+explore forward 0.0
+explore forward 0.40937499999999993
+go to the red door 0.8875
+explore 0.60625
+explore forward 0.0
+explore forward 0.0
+go next to the blue ball 0.8171875
+go to a green door 0.7890625
+explore 0.8453125
+go to a yellow box 0.0
+go to a green key 0.0
+go to a green box 0.0
+go next to a red box 0.971875
+explore 0.3671875
+go to a yellow door 0.690625
+go to a yellow door 0.7890625
+go next to a yellow box 0.9578125
+go next to a blue box 0.8734375
+explore 0.7046874999999999
+go next to a yellow key 0.971875
+go to a grey door 0.94375
+explore 0.6765625
+go next to a blue ball 0.8734375
+go to a purple key 0.0
+go next to a yellow key 0.8734375
+go to a grey ball 0.0
+explore 0.0
+go to a blue door 0.746875
+go to the green ball 0.0
+go next to a green key 0.859375
+go to the green box 0.0
+go to a red door 0.0
+go to a blue box 0.0
+go next to the yellow key 0.8171875
+go next to a blue ball 0.915625
+go to the green door 0.94375
+go to a blue door 0.0
+explore 0.690625
+go to a purple box 0.0
+go to the green door 0.71875
+explore forward 0.26874999999999993
+explore forward 0.15625
+explore forward 0.0
+go to a grey door 0.915625
+go next to a purple key 0.971875
+go to a green door 0.8875
+go to the yellow key 0.0
+go next to a blue box 0.8875
+go to the green door 0.8453125
+explore forward 0.0
+explore forward 0.0
+go to a red door 0.0
+explore forward 0.38125
+go to the blue key 0.0
+go to a grey box 0.0
+explore forward 0.0
+explore 0.6343749999999999
+go to a yellow door 0.9859375
+go to a yellow box 0.0
+go next to a grey key 0.94375
+explore forward 0.18437499999999996
+go to a red key 0.0
+go to a grey door 0.83125
+explore 0.775
+go next to a green key 0.9859375
+go next to a blue box 0.9296875
+explore 0.5640624999999999
+go next to a green box 0.9015625
+explore 0.60625
+go to a blue door 0.8734375
+go to a green door 0.859375
+go next to a blue box 0.859375
+explore 0.15625
+go to the grey box 0.0
+go next to a purple ball 0.94375
+explore 0.5921875
+go next to the blue key 0.9859375
+explore 0.8171875
+go to a purple box 0.0
+go to a red door 0.0
+go to a red door 0.915625
+go to a grey door 0.6484375
+go next to the grey ball 0.915625
+go next to the green ball 0.9859375
+go next to a blue box 0.9015625
+explore forward 0.0
+go to a blue door 0.915625
+explore 0.3671875
+explore 0.5359375
+go to a grey ball 0.0
+go next to a yellow ball 0.8875
+go to the grey door 0.0
+go to a grey box 0.0
+explore forward 0.0
+explore 0.60625
+go next to a grey box 0.915625
+go to a yellow box 0.0
+go to a green key 0.0
+go next to a blue key 0.9015625
+go next to a red key 0.971875
+explore 0.746875
+explore forward 0.0
+go to a purple door 0.9859375
+explore 0.3109375
+go to a blue door 0.9859375
+go to a purple key 0.0
+go to a blue door 0.8734375
+explore forward 0.25468749999999996
+go to a blue ball 0.0
+go to a grey door 0.8875
+explore forward 0.21250000000000002
+go to a green door 0.9296875
+go to a blue box 0.0
+go to a grey key 0.0
+explore forward 0.4234375
+explore forward 0.0
+go next to a grey key 0.803125
+go next to a red box 0.8453125
+go to a red door 0.94375
+go to the red door 0.7890625
+go next to a blue key 0.94375
+go next to a red ball 0.9859375
+explore forward 0.4515625
+go to a yellow door 0.859375
+go to the grey box 0.0
+go to the yellow door 0.859375
+go to a purple door 0.803125
+go to a grey key 0.0
+go to a yellow door 0.83125
+go to the purple key 0.0
+go next to the grey ball 0.94375
+go next to a green key 0.94375
+go next to a blue ball 0.94375
+go next to the green key 0.9015625
+go to a red box 0.0
+explore forward 0.0
+explore 0.8875
+go to the purple door 0.803125
+go to the purple door 0.8171875
+go next to a grey box 0.9015625
+explore 0.6343749999999999
+go to a grey box 0.0
+go next to a green box 0.9578125
+go to a blue key 0.0
+explore 0.47968749999999993
+go to a grey door 0.0
+explore forward 0.09999999999999998
+go to a grey key 0.0
+go next to a red key 0.94375
+go to a purple door 0.915625
+go to a grey box 0.0
+go next to the purple key 0.9015625
+go to the blue ball 0.0
+go to a blue ball 0.0
+go to a blue ball 0.0
+explore forward 0.0
+go to a grey door 0.9578125
+explore 0.4234375
+go next to a grey box 0.8875
+go to a blue key 0.0
+explore forward 0.0
+go to a blue box 0.0
+go to the yellow key 0.0
+go next to a blue ball 0.8734375
+go to a purple door 0.803125
+go to the grey door 0.9296875
+go to a yellow ball 0.0
+explore 0.12812499999999993
+go next to a grey box 0.9859375
+go next to the red ball 0.83125
+go to a grey key 0.0
+go to a green box 0.0
+go next to the blue box 0.8171875
+go to a grey door 0.8875
+explore 0.6484375
+go to a blue door 0.775
+go to a red key 0.0
+go next to a blue box 0.83125
+go next to a purple ball 0.8875
+go to a blue door 0.0
+go next to a yellow ball 0.94375
+explore 0.40937499999999993
+go to a purple key 0.0
+explore forward 0.296875
+explore 0.578125
+explore 0.521875
+explore 0.38125
+go next to the yellow box 0.83125
+go next to a red box 0.9296875
+explore 0.353125
+go to the yellow door 0.9015625
+explore 0.0
+go to the blue box 0.0
+go next to a grey box 0.9578125
+go next to a grey ball 0.9296875
+go next to the purple key 0.9859375
+explore 0.2828125
+go to the yellow ball 0.0
+explore forward 0.0
+go next to a green box 0.9578125
+go to the blue door 0.0
+go to a purple key 0.915625
+go to a purple box 0.0
+go to a blue key 0.0
+go next to a green ball 0.9578125
+go to a blue ball 0.0
+go to a purple box 0.0
+go to a purple door 0.9859375
+explore 0.3109375
+go next to the grey key 0.9015625
+go to a grey ball 0.0
+go to the purple door 0.8453125
+go to a grey door 0.0
+explore forward 0.5359375
+go to the purple door 0.8171875
+explore 0.60625
+go next to a blue box 0.859375
+go next to the blue ball 0.71875
+explore forward 0.0
+go to a green ball 0.0
+go to the purple door 0.8453125
+go to a grey key 0.0
+go to a purple key 0.0
+explore 0.2828125
+go to a grey door 0.9296875
+explore forward 0.0
+go to a green ball 0.0
+explore 0.2265625
+go to the yellow door 0.9578125
+go to a blue ball 0.0
+go to a grey box 0.0
+go to a blue door 0.8875
+explore 0.32499999999999996
+go to a yellow key 0.0
+go to a red ball 0.0
+go next to a red ball 0.7609375
+explore forward 0.3109375
+go to a purple ball 0.0
+explore forward 0.3109375
+go to a yellow door 0.8453125
+go to the blue ball 0.0
+go to a purple door 0.0
+go to a yellow door 0.8453125
+explore forward 0.21250000000000002
+go next to a blue key 0.9015625
+go next to a blue ball 0.9859375
+go to a green key 0.0
+go to the blue key 0.0
+go to a red door 0.915625
+go to a yellow door 0.915625
+go to the grey door 0.775
+go next to the red key 0.8875
+go to a green door 0.7609375
+go to a green door 0.4515625
+go to the green door 0.971875
+go to a blue door 0.94375
+go to a purple ball 0.0
+explore 0.0
+go to a red box 0.0
+explore forward 0.0
+go to a purple door 0.0
+go to a red door 0.83125
+go to the grey box 0.0
+go to a red door 0.9578125
+go next to a red ball 0.859375
+go to the purple door 0.83125
+go to a blue door 0.9296875
+go to a red box 0.0
+explore 0.0
+go to a yellow door 0.9296875
+go to a blue key 0.0
+explore forward 0.55
+go to a yellow door 0.8875
+go to the red door 0.8453125
+go to the yellow door 0.9015625
+go to a green ball 0.0
+go to a green key 0.0
+explore 0.49375
+go next to a grey box 0.0
+go next to a yellow ball 0.971875
+go next to the red box 0.0
+go to a purple door 0.8875
+go to a grey ball 0.0
+go to a purple key 0.0
+go to a grey door 0.8734375
+go to a grey door 0.9859375
+explore 0.0
+go next to the green box 0.9859375
+go to a red key 0.0
+go to a grey key 0.0
+explore forward 0.0
+go next to the yellow ball 0.971875
+go next to the purple key 0.7609375
+go to a yellow door 0.9015625
+go next to a blue key 0.9859375
+go to a purple box 0.0
+explore forward 0.578125
+explore forward 0.33906249999999993
+go next to a red box 0.8875
+go to a blue door 0.9859375
+go to the red door 0.0
+go to a red door 0.859375
+go to a grey ball 0.0
+go to a blue key 0.0
+go to a red key 0.0
+go to a red key 0.0
+go to a blue box 0.0
+go to the blue ball 0.0
+go to a blue box 0.0
+go to the purple door 0.859375
+go next to a yellow ball 0.9578125
+go next to the green key 0.0
+go next to a yellow box 0.8875
+go next to a red ball 0.971875
+go to a red box 0.0
+explore forward 0.5640624999999999
+go to a red door 0.8453125
+go to a green door 0.0
+go to a purple box 0.0
+go to a green door 0.83125
+explore 0.0
+go to a yellow door 0.9015625
+go to the yellow key 0.0
+go next to a green box 0.971875
+go to the green box 0.26874999999999993
+go to the purple key 0.0
+go to a blue door 0.9296875
+go next to a red ball 0.9578125
+go to a yellow door 0.915625
+go to a yellow ball 0.0
+go to a grey ball 0.0
+go to a blue ball 0.0
+go to a red door 0.746875
+go to a red door 0.803125
+go to a red door 0.9015625
+go to a red door 0.8453125
+go to a red key 0.0
+explore 0.19843749999999993
+go next to a grey box 0.971875
+go next to a blue key 0.94375
+go to a red door 0.9859375
+go next to a yellow ball 0.9296875
+go to a blue box 0.0
+go to a red ball 0.0
+go to a yellow door 0.775
+go to the purple ball 0.0
+explore 0.0
+explore forward 0.6203125
+go to a green box 0.0
+go to the red door 0.0
+go to the yellow ball 0.0
+go to a blue door 0.9859375
+go next to a blue key 0.9296875
+go next to a grey box 0.859375
+explore 0.0
+go to a red door 0.971875
+go next to a green key 0.9859375
+go to a grey key 0.915625
+explore 0.803125
+explore 0.3671875
+go next to the grey box 0.971875
+explore forward 0.3671875
+explore forward 0.0
+go next to the purple box 0.9859375
+go to a purple door 0.0
+explore 0.0
+go next to the blue ball 0.915625
+go to a grey key 0.0
+go to a purple ball 0.0
+go to a green door 0.9859375
+go to a yellow box 0.0
+go next to a blue ball 0.9578125
+explore 0.71875
+go to a grey box 0.0
+go to a blue door 0.8734375
+go to a yellow box 0.0
+go to a red key 0.0
+go to the purple door 0.8453125
+go next to a purple box 0.9859375
+go to a purple ball 0.0
+go to a grey ball 0.0
+go to the purple door 0.49375
+go next to a yellow ball 0.971875
+explore 0.0
+explore forward 0.0
+go to a purple ball 0.0
+go next to a blue key 0.915625
+go to the red box 0.7609375
+go to a red door 0.690625
+go to a green door 0.9015625
+go to a green key 0.0
+go to the grey door 0.7890625
+explore 0.0
+explore forward 0.17031249999999998
+explore 0.40937499999999993
+go to the blue door 0.775
+go to a yellow door 0.6625
+go to a yellow door 0.9015625
+explore 0.5359375
+go to the red key 0.0
+go next to a purple box 0.915625
+go to a red box 0.8453125
+F 34339 | FPS 508 | D 0:01:07 | R:xsmM 0.478 0.418 0.000 0.986 | S 0.613 | F:xsmM 34.3 26.6 1 64
+10 worst episodes:
+1000000000
+- episode 0: R=0.0, F=64
+1000000001
+- episode 1: R=0.0, F=64
+1000000010
+- episode 10: R=0.0, F=64
+1000000013
+- episode 13: R=0.0, F=64
+1000000014
+- episode 14: R=0.0, F=64
+1000000018
+- episode 18: R=0.0, F=64
+1000000025
+- episode 25: R=0.0, F=64
+1000000027
+- episode 27: R=0.0, F=64
+1000000030
+- episode 30: R=0.0, F=64
+1000000033
+- episode 33: R=0.0, F=64

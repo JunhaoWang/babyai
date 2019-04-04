@@ -274,6 +274,70 @@ class OpenInstr(ActionInstr):
         return 'continue'
 
 
+class ExploreInstr(ActionInstr):
+    """
+    Move around a room until all squares including walls and corners are seen
+    """
+
+    def __init__(self, carrying=None, carryInv=False, center=False):
+        super().__init__()
+        self.carryInv = carryInv
+        self.carrying = carrying
+        self.center = center
+
+    def surface(self, env):
+        if self.center:
+            return 'explore'
+        else:
+            return 'explore forward'
+
+    def reset_verifier(self, env):
+        super().reset_verifier(env)
+        self.vis_mask = np.zeros(shape=(env.width, env.height), dtype=np.bool)
+        self.env.carrying = self.carrying
+
+    def process_obs(self):
+        'update seen squares in env using observation'
+        # adapted from bot.py
+        grid, vis_mask = self.env.gen_obs_grid()
+        pos = self.env.agent_pos
+        f_vec = self.env.dir_vec
+        r_vec = self.env.right_vec
+        view_size = self.env.agent_view_size
+        # Compute absolute coordinates of the top-left corner of the agent's view area
+        top_left = pos + f_vec * (view_size - 1) - r_vec * (view_size // 2)
+        # Mark everything in front of us as visible
+        for vis_j in range(0, view_size):
+            for vis_i in range(0, view_size):
+                if not vis_mask[vis_i, vis_j]:
+                    continue
+                # Compute the world coordinates of this cell
+                abs_i, abs_j = top_left - (f_vec * vis_j) + (r_vec * vis_i)
+                if abs_i < 0 or abs_i >= self.vis_mask.shape[0]:
+                    continue
+                if abs_j < 0 or abs_j >= self.vis_mask.shape[1]:
+                    continue
+                self.vis_mask[abs_i, abs_j] = True
+
+    def completely_observed(self):
+        'if number of squares seen is 64, then room completely observed'
+        # currently only works for 6 * 6 rooms and if no doors are opened
+        seen_room = self.vis_mask[7:15, 7:15]
+        seen = np.count_nonzero(seen_room == True)
+        if seen == 64:
+            return True
+        return False
+
+    def verify_action(self, action):
+        self.process_obs()
+        if self.completely_observed():
+            if not self.carryInv:
+                return 'success'
+            if self.env.carrying == self.carrying:
+                return 'success'
+        return 'continue'
+
+
 class GoToInstr(ActionInstr):
     """
     Go next to (and look towards) an object matching a given description
