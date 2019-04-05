@@ -255,6 +255,11 @@ class ACModel(nn.Module, babyai.rl.RecurrentACModel):
 
     def _get_instr_embedding(self, instr):
         if self.lang_model == 'gru':
+            shape = instr.shape
+            pad_instr = torch.zeros(shape[0], 6)
+            pad_instr[:, :shape[1]] = instr
+            pad_instr = pad_instr.to(instr)
+            instr = pad_instr
             _, hidden = self.instr_rnn(self.word_embedding(instr))
             return hidden[-1]
 
